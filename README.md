@@ -1,1 +1,1 @@
-{\rtf1}# desafios-typescript
+# desafios-typescript
